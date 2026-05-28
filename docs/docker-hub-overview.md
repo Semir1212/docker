@@ -2,7 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/humhub/docker/main/docs/assets/humhub-logo.png" alt="HumHub Logo" width="400"/>
 
-[HumHub](https://github.com/humhub/humhub) is a flexible, open-source social networking platform written in PHP. It can serve as an enterprise social network, team intranet, knowledge base, or communication hub — connecting people, content, and tools in a single place. With support for over 30 languages, a rich module ecosystem (LDAP, SSO, Calendar, Wiki, OnlyOffice, and more), and a responsive design that works across all devices, HumHub is trusted by thousands of organizations worldwide.
+[HumHub](https://github.com/humhub/humhub) is a flexible open-source platform built with PHP, designed to support a broad range of digital collaboration use cases — from community networks and corporate intranets to modern collaboration environments. By unifying people, content, and tools within a centralized platform, HumHub enables organizations to communicate, collaborate, and share knowledge efficiently and securely.
+
+With support for more than 30 languages, an extensive ecosystem of modules including LDAP, SSO, Calendar, Wiki, Files, and many others, as well as a fully responsive interface optimized for desktop and mobile devices, HumHub is trusted by thousands of organizations worldwide as a scalable and adaptable collaboration solution.
 
 ---
 
